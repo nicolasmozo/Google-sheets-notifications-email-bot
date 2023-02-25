@@ -1,2 +1,2 @@
 # notifications-email-bot
-Function in Javascript (Apps Script) for sending emails automatically when an event is triggered in a Google sheet.
+This is a Javascript function (Apps Script) designed to automate email notifications whenever a particular event occurs in a Google sheet.
